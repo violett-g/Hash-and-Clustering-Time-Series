@@ -1,0 +1,45 @@
+Querry :aer
+Algorithm: {LSH-Vector} 
+Approximate Nearest neighbor:aal
+True Nearest neighbor:abt
+distance Approximate: 13.5
+distance True: 9.78617
+-----------------------------------------------------------
+Querry :aes
+Algorithm: {LSH-Vector} 
+Approximate Nearest neighbor:acp
+True Nearest neighbor:abdc
+distance Approximate: 3.934
+distance True: 3.4488
+-----------------------------------------------------------
+Querry :aeti
+Algorithm: {LSH-Vector} 
+Approximate Nearest neighbor:acst
+True Nearest neighbor:acst
+distance Approximate: 2.5653
+distance True: 2.5653
+-----------------------------------------------------------
+Querry :aey
+Algorithm: {LSH-Vector} 
+Approximate Nearest neighbor:aau
+True Nearest neighbor:aau
+distance Approximate: 1.882
+distance True: 1.882
+-----------------------------------------------------------
+Querry :afb
+Algorithm: {LSH-Vector} 
+Approximate Nearest neighbor:abe
+True Nearest neighbor:adx
+distance Approximate: 3.5072
+distance True: 3.01
+-----------------------------------------------------------
+Querry :afc
+Algorithm: {LSH-Vector} 
+Approximate Nearest neighbor:aeh
+True Nearest neighbor:aeh
+distance Approximate: 1.194
+distance True: 1.194
+-----------------------------------------------------------
+tApproximateAverage: 0.000182
+tTrueAverage: 0.000419333
+MAF: 1.37949

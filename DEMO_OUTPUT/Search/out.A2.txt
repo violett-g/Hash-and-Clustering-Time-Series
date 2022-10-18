@@ -1,0 +1,73 @@
+Querry :aer
+Algorithm: {LSH_Frechet_Discrete} 
+Approximate Nearest neighbor:abt
+True Nearest neighbor:abt
+distance Approximate: 9.78617
+distance True: 9.78617
+-----------------------------------------------------------
+Querry :aeri
+Algorithm: {LSH_Frechet_Discrete} 
+Approximate Nearest neighbor:abcb
+True Nearest neighbor:abcb
+distance Approximate: 17.1672
+distance True: 17.1672
+-----------------------------------------------------------
+Querry :aes
+Algorithm: {LSH_Frechet_Discrete} 
+Approximate Nearest neighbor:abdc
+True Nearest neighbor:abdc
+distance Approximate: 3.4488
+distance True: 3.4488
+-----------------------------------------------------------
+Querry :aet
+Algorithm: {LSH_Frechet_Discrete} 
+Approximate Nearest neighbor:aapl
+True Nearest neighbor:aapl
+distance Approximate: 27.694
+distance True: 27.694
+-----------------------------------------------------------
+Querry :aeti
+Algorithm: {LSH_Frechet_Discrete} 
+Approximate Nearest neighbor:acst
+True Nearest neighbor:acst
+distance Approximate: 2.5653
+distance True: 2.5653
+-----------------------------------------------------------
+Querry :aey
+Algorithm: {LSH_Frechet_Discrete} 
+Approximate Nearest neighbor:aau
+True Nearest neighbor:aau
+distance Approximate: 1.882
+distance True: 1.882
+-----------------------------------------------------------
+Querry :aezs
+Algorithm: {LSH_Frechet_Discrete} 
+Approximate Nearest neighbor:advm
+True Nearest neighbor:acad
+distance Approximate: 41.1773
+distance True: 38.4465
+-----------------------------------------------------------
+Querry :afam
+Algorithm: {LSH_Frechet_Discrete} 
+Approximate Nearest neighbor:acc
+True Nearest neighbor:abt
+distance Approximate: 15.8278
+distance True: 14.8876
+-----------------------------------------------------------
+Querry :afb
+Algorithm: {LSH_Frechet_Discrete} 
+Approximate Nearest neighbor:adx
+True Nearest neighbor:adx
+distance Approximate: 3.01
+distance True: 3.01
+-----------------------------------------------------------
+Querry :afc
+Algorithm: {LSH_Frechet_Discrete} 
+Approximate Nearest neighbor:aeh
+True Nearest neighbor:aeh
+distance Approximate: 1.194
+distance True: 1.194
+-----------------------------------------------------------
+tApproximateAverage: 1.22415
+tTrueAverage: 3.46828
+MAF: 1.07103
